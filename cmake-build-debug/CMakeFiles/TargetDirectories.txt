@@ -1,0 +1,7 @@
+E:/LAB/IS/cd/satTest/cmake-build-debug/CMakeFiles/hello.dir
+E:/LAB/IS/cd/satTest/cmake-build-debug/CMakeFiles/project.dir
+E:/LAB/IS/cd/satTest/cmake-build-debug/CMakeFiles/pipe_test.dir
+E:/LAB/IS/cd/satTest/cmake-build-debug/CMakeFiles/input_test.dir
+E:/LAB/IS/cd/satTest/cmake-build-debug/CMakeFiles/fork_test.dir
+E:/LAB/IS/cd/satTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/LAB/IS/cd/satTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

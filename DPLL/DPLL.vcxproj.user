@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>1000 6778 &lt;E:\LAB\IS\cd\satTest\specification_data\1ee0e949-d186-4b94-a0fd-efc55d06a7e2\65a33469-bce5-4737-a89d-ad0eb5c86b91.cnf</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>&lt;E:\LAB\IS\cd\satTest\specification_data\1ee0e949-d186-4b94-a0fd-efc55d06a7e2\3c98fbcc-386e-4f4f-b480-ada4b7336dc4.cnf</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
